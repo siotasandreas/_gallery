@@ -8,9 +8,9 @@ license_url: https://en.wikipedia.org/wiki/IPhone_(1st_generation)
 categories:
   - Μορφές
 tags:
-  -Apple
-  -Iphone
-  -Ipod
-  -Magic cap
-  -Newton
+  - Apple
+  - Iphone
+  - Ipod
+  - Magic cap
+  - Newton
 ---
