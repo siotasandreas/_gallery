@@ -10,7 +10,4 @@ categories:
 tags:
   - Apple
   - Iphone
-  - Ipod
-  - Magic cap
-  - Newton
 ---
