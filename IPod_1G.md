@@ -11,6 +11,5 @@ categories:
   - Συσκευές Εισόδου
 tags:
   - Apple
-  - Iphone
   - Ipod
 ---
